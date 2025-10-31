@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Shikh")(type "KiCad")(uri "$(KIPRJMOD)/Shikh.pretty")(options "")(descr ""))
+)
